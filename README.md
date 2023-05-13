@@ -1,2 +1,2 @@
-# b3i-image
+# b3-image
 data Readme.md
